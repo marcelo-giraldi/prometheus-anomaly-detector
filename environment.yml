@@ -17,3 +17,5 @@ dependencies:
       - numpy
       - keras
       - scikit-learn
+      - itertools
+      - holidays
